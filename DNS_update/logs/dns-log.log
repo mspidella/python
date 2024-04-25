@@ -1,16 +1,1 @@
-Apr 03 14:55:27 - ERROR - Error resolving DNS for test1.jvnetworks.net: 'Resolver' object has no attribute 'resolve'
-Apr 03 14:55:27 - INFO - IP Mismatch for test1.jvnetworks.net. Making change.
-Apr 03 14:55:27 - INFO - Was None. Changing to 67.146.32.107
-Apr 03 14:55:27 - INFO - Updating DNS records from None to 67.146.32.107
-Apr 03 14:55:32 - INFO - File uploaded successfully.
-Apr 03 14:55:32 - INFO - Verifying DNS change...
-Apr 03 14:55:42 - INFO - Fetching updated DNS zone...
-Apr 03 14:55:43 - INFO - DNS change verified.
-Apr 03 14:56:17 - ERROR - Error resolving DNS for test1.jvnetworks.net: 'Resolver' object has no attribute 'resolve'
-Apr 03 14:56:17 - INFO - IP Mismatch for test1.jvnetworks.net. Making change.
-Apr 03 14:56:17 - INFO - Was None. Changing to 67.146.32.107
-Apr 03 14:56:17 - INFO - Updating DNS records from None to 67.146.32.107
-Apr 03 14:56:20 - INFO - File uploaded successfully.
-Apr 03 14:56:20 - INFO - Verifying DNS change...
-Apr 03 14:56:30 - INFO - Fetching updated DNS zone...
-Apr 03 14:56:30 - INFO - DNS change verified.
+
