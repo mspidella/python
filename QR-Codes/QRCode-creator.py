@@ -3,7 +3,7 @@ import qrcode
 import segno
 import PIL
 
-
+#start
 selection = input("Do you want to a: QRcode, "
                   "b: horizontal QRcode, "
                   "c: animated QRcode,"
@@ -22,9 +22,9 @@ if selection == "a":
     qrcode.save(savefile,
                 scale=1,
                 border=1,
-                light="lightblue",
-                dark="darkblue",
-                data_dark="green",
+                light="white",
+                dark="black",
+                data_dark="black",
                 )
 
 elif selection == "b":
